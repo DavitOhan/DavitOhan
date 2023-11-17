@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DavitOhan
 - 👀 I’m interested in IT
-- 🌱 I’m currently learning programirian
+- 🌱 I’m currently learning programming
 
 <!---
 DavitOhan/DavitOhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
