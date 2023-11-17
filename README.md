@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DavitOhan
+- 👋 Hi, I’m @DavitOhanesian
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning programming
 
